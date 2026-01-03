@@ -1,0 +1,17 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+}
+
+.hero {
+    background: linear-gradient(to right, #007bff, #0056b3), url('https://via.placeholder.com/1920x600?text=DevOps+Background');
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+}
+
+.stats h3 {
+    font-size: 24px;
+}
+
